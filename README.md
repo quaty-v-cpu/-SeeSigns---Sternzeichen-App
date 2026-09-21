@@ -3,3 +3,4 @@ Man kann damit eine bestehende Beziehung beschreiben lassen oder Sternzeichens f
 Die Bedingung ist einfach und selbsterklärend. Nach 10 Minuten sollte jeder rausfinden, wie die App funktioniert.
 Der Projekt ist meine eigene Entwicklung, keine andere Personen haben teilgenommen.
 Wer will den Code irgendwo benutzen, kann er das machen.
+Ich hoffe, dass ich alles bei GitHub richtig gemacht habe und der Quellcode komplett geladen habe.
