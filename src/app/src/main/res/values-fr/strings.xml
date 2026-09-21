@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeeSigns</string>
+    <string name="toolbar_text">Veuillez sélectionner une option</string>
+    <string name="button1_text">Ce que vous avez</string>
+    <string name="button2_text">Ce dont vous avez besoin</string>
+    <string name="warning_toolbar_text">Veuillez noter</string>
+    <string name="warning_text">L\'énergie entre deux personnes ne peut être décrite uniquement en termes de signes du zodiaque et de leur effet l\'un sur l\'autre, car tout le monde n\'est pas physiquement compatible. Par exemple, au moins la moitié des personnes que l\'on rencontre au cours d\'une journée ne nous correspondent pas physiquement. Seules les personnes que l\'on trouve plus ou moins sympathiques sont généralement compatibles physiquement avec nous. La meilleure compatibilité entre signes astrologiques ne sert à rien si l\'on ne peut pas se supporter physiquement. On peut réfléchir aux signes astrologiques uniquement si l\'on a au moins un partenaire dont on supporte la proximité. Ainsi, si vous vous sentez stressé, mal à l\'aise et opprimé à côté d\'une personne, c\'est que vous ne pouvez pas la supporter physiquement, et il est inutile d\'analyser davantage la relation. Les jumeaux monozygotes sont un bon exemple de compatibilité physique et énergétique absolue. Ils ont le même ADN et le même signe astrologique. Si vous utilisez cette application, on part donc du principe que vous pouvez globalement supporter votre partenaire sur le plan physique.</string>
+    <string name="toolbar_text_birth_dates">Entrez les dates de naissance</string>
+    <string name="text_feld_you">Vous</string>
+    <string name="text_feld_partner">Partenaires</string>
+    <string name="date_text_default">dd.mm.yyyy</string>
+    <string name="toolbar_text_beschreibung">Description de la relation</string>
+
+
+    <string name="abstand_0">Les énergies que vous et votre partenaire avez sont identiques. Une telle relation convient plutôt aux
+        personnes qui recherchent la compréhension, la sécurité et le confort. Il peut y avoir souvent des disputes ou des luttes
+        de pouvoir, mais celles-ci sont plutôt considérées comme un divertissement et ne sont pas prises au sérieux. \n\n
+        Avantages : \n\n
+        Comme les énergies sont identiques, on se sent en sécurité et compris. Comme on réagit presque de la même manière au monde,
+        on se comprend très bien. En cas de dispute, et même si l\'on  dépasse les limites, le partenaire ne le prend pas
+        personnellement et, une fois la dispute terminée, on peut presque immédiatement reprendre une conversation normale.
+        Dans cette relation, il n\'est pas nécessaire de faire de réels efforts, tout se passe naturellement. Il n\'est pas
+        nécessaire de se cacher ou de s\'adapter fortement. \n\n
+        Inconvénients : \n\n
+        avoir la même énergie signifie aussi que l\'on peut s\'ennuyer assez rapidement, ce qui peut conduire à se disputer plus
+        souvent. Il faut alors essayer de s\'occuper ensemble avec quelque chose, comme la danse par exemple. Pour éviter l\'ennui
+        dans la relation, il faut des amis ou d\'autres couples qui apportent de la diversité dans la relation.</string>
+
+
+
+    <string name="abstand_1">Les énergies que vous avez avec votre partenaire sont similaires. Votre énergie est légèrement
+        plus dominante que celle de votre partenaire, ce qui implique une certaine responsabilité, car vous pouvez très facilement
+        blesser votre partenaire, par exemple lors d\'une dispute. \n\n
+        Avantages : \n\n
+        Comme vos énergies sont similaires, vous vous sentez plutôt comme des copains et des amis avec votre partenaire.
+        La légère différence entre vos énergies fait que vous et votre partenaire percevez le monde de manière légèrement différente
+        et y réagissez différemment, ce qui rend la relation plus intéressante. \n\n
+        Inconvénients : \n\n
+        Comme vous avez une énergie plus dominante que votre partenaire, vous pouvez parfois imposer certaines choses ou décisions
+        à votre partenaire sans lui demander son avis. Cela peut entraîner des problèmes, surtout si votre partenaire souhaite être
+        sur un pied d\'égalité. De plus, comme votre perception du monde est quelque peu différente, vous devez parfois vous expliquer
+        et beaucoup discuter pour que la relation fonctionne. Vous devez apprendre à ne pas toujours utiliser votre « pouvoir » dans
+        la relation, ce qui peut être épuisant.</string>
+
+
+    <string name="abstand_2">Les énergies sont très différentes, mais toujours compatibles, et personne ne domine l\'autre dans la relation.\n\n
+        Avantages : \n\n
+        Comme les énergies sont très différentes, la relation est très rafraîchissante et intéressante. Chacun peut exprimer son
+        point de vue et cela ne pose aucun problème. Ensemble, il est beaucoup plus facile de résoudre les problèmes, car on a une
+        meilleure vue d\'ensemble de la situation actuelle. Dans la relation, chacun fait ce qu\'il veut sans vraiment déranger l\'autre.\n\n
+        Inconvénients : \n\n
+        Comme les énergies sont très différentes et que la perception du monde est différente, il faut très souvent s\'expliquer pourquoi
+        on a fait ou dit telle ou telle chose, ce qui peut être ennuyeux. Comme il n\'y a pas de hiérarchie dans la relation, il peut
+        parfois y avoir des disputes, voire régulièrement, parce que l\'un des deux veut prendre le « pouvoir » et prendre toutes les
+        décisions importantes. Pour que la relation fonctionne, il faut un certain degré d\'adaptation.</string>
+
+
+    <string name="abstand_3">Les énergies que vous et votre partenaire dégagez ne sont pas compatibles. Si la relation perdure, elle
+        se caractérise plutôt par beaucoup de patience, une agressivité passive et le désir de se faire du mal. \n\n
+        Avantages : \n\n
+        Tout le monde n\'est pas pareil, certains recherchent le calme et la sécurité, d\'autres ont besoin de disputes et d\'adrénaline.
+        Une telle relation convient parfaitement aux personnes querelleuses. Dans une telle relation, on ne s\'apprécie pas vraiment,
+        ce qui donne une certaine liberté et égalité par rapport au partenaire. \n\n
+        Inconvénients : \n\n
+        Les disputes sont quotidiennes dans une telle relation. On ne se comprend pas et on ne veut pas se comprendre. Chaque petite
+        chose devient un problème et une source de stress, pour lequel il faut avoir de l\'énergie. Mais ce n\'est pas toujours
+        possible, ce qui peut poser problème. Dans de tels moments, on aura certainement envie d\'abandonner la relation. Une
+        telle relation peut conduire à une consommation excessive d\'alcool, d\'autres drogues ou au besoin de se distraire fortement,
+        par exemple avec la télévision ou les jeux vidéo.</string>
+
+
+    <string name="abstand_4">Les énergies sont très compatibles, car il s\'agit du même élément. Cependant, la relation est dominée
+        énergétiquement par votre partenaire. Cela signifie que vous jouez très probablement toujours les seconds rôles dans la
+        relation et que vous avez toujours le sentiment de devoir faire vos preuves. \n\n
+        Avantages : \n\n
+        Dans cette relation, vous vous sentez en sécurité et compris. Vous avez une vision similaire du monde et pouvez vous comprendre
+        mutuellement. Vous vous intéressez également l\'un à l\'autre. Si vous n\'avez pas tendance à tout contrôler et que vous êtes
+        prêt à laisser votre partenaire être plus dominant, votre relation sera harmonieuse. Ce type de relation convient mieux à ceux
+        qui ne veulent pas jouer les « chefs » et qui, par nature, préfèrent se laisser guider. Mais cela dépend aussi du caractère
+        de chacun. Il se peut que votre partenaire ne veuille pas être dominant dans la relation, auquel cas c\'est vous qui prendrez
+        les décisions et l\'équilibre régnera dans la relation. \n\n
+        Inconvénients : \n\n
+        votre partenaire peut bien sûr abuser de temps en temps de sa domination énergétique, ce qui peut entraîner des disputes.
+        Dans une telle situation, vous vous sentiriez très blessé et lui en voudriez longtemps.</string>
+
+
+    <string name="abstand_5">Les énergies ne sont pas vraiment compatibles, on se repousse pour ainsi dire. Vous ne ressentez aucune
+        proximité, mais plutôt une distance marquée avec votre partenaire. La relation relève davantage de la contrainte que de la
+        complicité. Elle exige beaucoup de patience et de force. \n\n
+        Avantages : \n\n
+        Si vous êtes une personne querelleuse et que vous cherchez toujours à attaquer quelqu\'un , alors une telle relation vous
+        convient. Si vous menez une telle relation et que vous vous efforcez de la maintenir, vous remarquerez avec le temps que vous
+        êtes devenu beaucoup plus patient et calme qu\'auparavant. \n\n
+        Inconvénients : \n\n
+        D\'un point de vue énergétique, une telle relation est toujours source de stress. On voit le monde et on y réagit différemment.
+        Dans une telle relation, on ne peut pas et, la plupart du temps, on ne veut pas comprendre l\'autre. Il faut accepter d\'être
+        presque toujours passif-agressif, ce qui coûte des nerfs et de l\'énergie.</string>
+
+
+    <string name="abstand_6">Il n\'y a pas de hiérarchie dans la relation, les énergies sont aussi fortes et différentes les unes
+        que les autres. La relation se caractérise plutôt par un respect et un intérêt mutuels. \n\n
+        Avantages : \n\n
+        La relation est empreinte de neutralité et de respect mutuel. Une telle relation convient particulièrement aux personnes
+        indépendantes et autonomes. On voit le monde sous différents angles, mais cela ne conduit pas à des disputes, c\'est plutôt
+        instructif et intéressant pour les deux. \n\n
+        Inconvénients :  \n\n
+        Il est difficile ici d\'être follement amoureux. Les personnes qui aiment les câlins ou qui veulent coexister de manière
+        très proche et intime avec leur partenaire auront des problèmes dans une telle relation.</string>
+
+
+    <string name="abstand_7">Les énergies se repoussent plutôt, elles ne sont pas vraiment compatibles. Il n\'y a pas de hiérarchie
+        dans la relation, c\'est plutôt un va-et-vient. La relation se caractérise davantage par l\'agressivité que par l\'amour. \n\n
+        Avantages : \n\n
+        Les gens sont différents, certains veulent la tranquillité et la sécurité, d\'autres veulent de l\'action et de l\'adrénaline.
+        Une telle relation convient parfaitement au deuxième type. Si l\'on ne passe pas tout son temps ensemble et que l\'on ne se
+        voit que quelques heures par jour, cela peut être intéressant et rafraîchissant. La vie sexuelle de ces couples peut être
+        très intense et excitante, du moins au début. \n\n
+        Inconvénients : \n\n
+        Une telle relation ne fonctionne que si les deux partenaires passent relativement peu de temps ensemble, car leurs énergies
+        ont tendance à se nuire mutuellement plutôt qu\'à se soutenir. Avec le temps, il peut arriver que les deux partenaires s\'accordent
+        relativement peu d\'importance et se moquent de ce que l\'autre pense, fait ou dit.</string>
+
+
+    <string name="abstand_8">Vous dominez énergiquement dans la relation. La relation se caractérise par la sécurité, la compréhension
+        et la sympathie mutuelles. \n\n
+        Avantages : \n\n
+        Dans la relation, on se sent en sécurité et compris. La perception du monde est identique ou très similaire, ce qui permet
+        de parler de tout et de très bien se comprendre . Si votre partenaire accepte que vous meniez la danse et que vous n\'abusiez
+        pas de la domination énergétique que vous avez sur lui, l\'harmonie et la compréhension peuvent régner dans la relation. \n\n
+        Inconvénients : \n\n
+        Si le calme et la sécurité ne sont pas vraiment votre truc et que vous abusez régulièrement de votre domination énergétique,
+        la relation ne durera pas très longtemps.</string>
+
+
+    <string name="abstand_9">Les énergies ne s\'accordent pas vraiment. Il s\'agit plutôt d\'une lutte passive-agressive dans la relation.
+        Votre énergie est légèrement plus dominante que celle de votre partenaire, mais il/elle ne l\'accepte pas et lutte contre cela.
+        À long terme, il devient très épuisant et éprouvant pour les nerfs d\'être ensemble. \n\n
+        Avantages : \n\n
+        Si vous souhaitez exercer votre patience et votre amour pour les autres, une telle relation serait parfaite, car vous auriez
+        suffisamment de situations où vous devriez contrôler votre colère et votre agressivité. La lutte énergétique constante peut
+        également être excitante pour les personnes qui aiment se disputer afin de réduire leur frustration et leur insatisfaction. \n\n
+        Inconvénients : \n\n
+        Dans une telle relation, on cherche en vain la sécurité, l\'amour et la tranquillité. Les sentiments négatifs et le côté sombre
+        que chacun de nous possède dominent dans une telle combinaison d\'énergies. Ceux qui ne supportent pas ces montagnes russes
+        émotionnelles constantes se retireront de la relation.</string>
+
+
+
+    <string name="abstand_10">Les énergies sont d\'intensité égale, il n\'y a donc pas de hiérarchie énergétique dans la relation.
+        Dans le meilleur des cas, la relation se caractérise par l\'intérêt et le respect mutuels. \n\n
+        Avantages : \n\n
+        Ce type de relation peut être très enrichissant, car vous et votre partenaire avez des perspectives différentes sur le monde,
+        ce qui peut être intéressant. Une telle combinaison intéresse plutôt les personnes autonomes. Les personnes qui veulent absolument
+        être très proches et intenses avec leur partenaire constateront que cela n\'est tout simplement pas possible dans une telle
+        relation. Une certaine distance et un certain respect caractérisent ces couples. \n\n
+        Inconvénients : \n\n
+        Comme il n\'y a pas de hiérarchie dans la relation, cela peut conduire à des luttes de pouvoir, ce qui peut régulièrement
+        entraîner de grandes disputes. Tout le monde ne se sent pas vraiment à l\'aise dans ce type de relation, car les différentes
+        façons de voir les choses peuvent également conduire à des disputes, sans que l\'on se rende compte que l\'on considère
+        simplement différents aspects d\'une situation et que les deux ont raison à leur manière.</string>
+
+
+    <string name="abstand_11">Il existe une hiérarchie dans la relation et l\'énergie de votre partenaire domine la vôtre. Dans l\'ensemble,
+        la relation se caractérise par une sympathie mutuelle. \n\n
+        Avantages : \n\n
+        Si vous n\'êtes pas nécessairement quelqu\'un qui aime contrôler tout et ne souhaite pas assumer de responsabilités, alors
+        une telle relation vous convient. Les énergies sont similaires, ce qui peut susciter de la sympathie et de l\'intérêt mutuels.
+        Vous voyez également le monde de manière légèrement différente, ce qui peut rendre la relation passionnante. \n\n
+        Inconvénients : \n\n
+        Si votre partenaire profite de sa domination énergétique pour vous opprimer, vous lui en voudrez très longtemps et cela
+        conduira régulièrement à de grandes disputes. La tension et la haine seront de plus en plus grandes à chaque fois.</string>
+
+
+    <string name="toolbar_text_geburtstagseingabe">Entrez votre date de naissance</string>
+    <string name="toolbar_text_choose_options">Veuillez sélectionner les options</string>
+    <string name="subtitel_text_choose_options">Options que la relation devrait avoir</string>
+    <string name="options_1">Je veux être respecté</string>
+    <string name="options_2">Je veux respecter mon partenaire</string>
+    <string name="options_3">Je souhaite de la compréhension et de la sécurité</string>
+    <string name="options_4">J\'ai besoin d\'un partenaire que je déteste plus que j\'aime</string>
+    <string name="options_5">Je veux que la relation soit intéressante</string>
+    <string name="options_6">J\'ai besoin de beaucoup d\'espace et de distance</string>
+    <string name="options_7">Je souhaite dominer énergiquement dans la relation</string>
+    <string name="options_8">Je souhaite que mon partenaire domine dans notre relation</string>
+    <string name="options_9">Je ne veux pas que l\'un domine l\'autre dans la relation</string>
+    <string name="Steinbock">Capricorne</string>
+    <string name="Wassermann">Verseau</string>
+    <string name="Fische">Poissons</string>
+    <string name="Widder">Bélier</string>
+    <string name="Stier">Taureau</string>
+    <string name="Zwillinge">Gémeaux</string>
+    <string name="Krebs">Cancer</string>
+    <string name="Loewe">Lion</string>
+    <string name="Jungfrau">Vierge</string>
+    <string name="Waage">Balance</string>
+    <string name="Skorpion">Scorpion</string>
+    <string name="Schuetze">Sagittaire</string>
+    <string name="Sternzeichen_info_toolbar">Signes du zodiaque</string>
+</resources>

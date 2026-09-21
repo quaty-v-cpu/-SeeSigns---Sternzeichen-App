@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeeSigns</string>
+    <string name="toolbar_text">Bitte wählen Sie eine Option aus</string>
+    <string name="button1_text">Was Sie haben</string>
+    <string name="button2_text">Was Sie brauchen</string>
+    <string name="warning_toolbar_text">Bitte beachten Sie</string>
+    <string name="warning_text">Die Energie zwischen zwei Personen kann man nicht nur mit Sternzeichens und ihrer Wirkung auf einander beschreiben, denn nicht alle passen zu einander rein körperlich. Zum Beispiel, mindestens die Hälfte der Menschen, die man über den Tag trifft, passt körperlich zu einem nicht. Nur die Personen, die man für sympathisch mehr oder weniger hält, sind normalerweise zu einem körperlich kompatibel. Es hilft die beste Sternzeichenkompatibilität nicht, wenn man einander rein körperlich nicht ertragen kann. Man kann über Sternzeichen überhaupt nachdenken, wenn man zumindest einen Partner hat, dessen Nähe Sie ertragen können. Wenn also, Sie sich neben einer Person gestresst, unwohl und unterdrückt fühlen, dann können Sie diese Person rein körperlich nicht ertragen, die weitere Analyse von der Beziehung ist überflüssig. Ein guter Beispiel für eine absolute körperliche und energetische Kompatibilität sind eineiige Zwillinge. Sie haben dieselbe DNA und denselben Sternzeichen. Wenn Sie also diese App nutzen, wird davon ausgegangen, dass Sie Ihren Partner im Großen und Ganzen körperlich ertragen können.</string>
+    <string name="toolbar_text_birth_dates">Geben Sie die Geburtsdaten ein</string>
+    <string name="text_feld_you">Sie</string>
+    <string name="text_feld_partner">Partner</string>
+    <string name="date_text_default">dd.mm.yyyy</string>
+    <string name="toolbar_text_beschreibung">Beziehungsbeschreibung</string>
+
+    <string name="abstand_0">Die Energien, die Sie und Ihr Parther haben sind gleich. So eine Beziehung ist eher für Menschen,
+        die Verständnis, Geborgenheit und Bequemlichkeit suchen. Es kann öfter zu Streit kommen oder Machtkampf, aber das wäre
+        eher als Unterhaltung gedacht und nicht ernst gemeint. \n\n
+        Vorteile : \n\n
+        Da die Energien gleich sind, fühlt man sich geborgen und verstanden. Da man fast gleich auf die Welt reagiert,
+        versteht man sich sehr gut. Wenn zu einem Streit kommt und wenn man sogar beim Streit die Grenze überschreitet,
+        wird es vom jeweiligen Partner nicht persönlich genommen und wenn der Streit vorbei ist, kann man fast gleich
+        wieder normal reden. In der Beziehung muss man sich nicht wirklich anstrengen, alles läuft halt wie es läuft.
+        Man muss sich nicht verstellen oder stark anpassen. \n\n
+        Nachteile : \n\n
+        Die gleiche Energie bedeutet auch, dass es ziemlich schnell langweilig werden kann, was dazu führen kann, dass
+        man sich öfter streitet. Man muss dann versuchen, sich zusammen mit etwas zu beschäftigen, wie Tanzen z.B..
+        Um Langweile in der Beziehung zu vermeiden, braucht man Freunde oder andere Paare, die Abwechslung in die Beziehung bringen.</string>
+
+
+
+
+
+    <string name="abstand_1">Die Energien, die Sie mit Ihrem Partner haben, sich verwandt. Ihre Energie ist Stück dominanter als
+        von Ihrem Partner, was eine gewisse Verantwortung mit sich bringt, da Sie Ihren Partner sehr leicht z.B. im Streit verletzen können. \n\n
+        Vorteile : \n\n
+        Da die Energien verwandt sind, fühlen Sie sich mit Ihrem Partner eher wie Kumpels und Freunde. Der leichter Unterschied
+        in der Energien führt dazu, dass Sie und Ihr Partner die Welt  etwas anders wahrnehmen und darauf reagieren, was die
+        Beziehung interessanter macht. \n\n
+        Nachteile : \n\n
+        Da Sie die dominantere Energie haben als Ihr Partner, können Sie manchmal einige Sachen oder Entscheidungen, einfach
+        durchsetzen über den Kopf von Ihrem Partner. Das kann zur Problemen führen, besonders wenn Ihr Partner die Gleichberechtigung
+        haben möchte. Außerdem da die Wahrnehmung der Welt doch etwas anderes ist, muss man sich ab und zu erklären und viel reden,
+        damit die Beziehung funktioniert. Sie müssen lernen in der Beziehung Ihre „Macht“ nicht immer einsetzen zu müssen, was
+        ansengend sein kann.</string>
+
+
+    <string name="abstand_2">Die Energien sich deutlich verschieden, aber immer noch kompatibel und in der Beziehung keiner dominiert
+        keinen. \n\n
+        Vorteile : \n\n
+        Da die Energien sehr deutlich anders sind, ist die Beziehung sehr erfrischend und interessant. Jeder kann seine Sichtweise
+        äußern und das ist dann in Ordnung. Zusammen \tkann man Problemen viel leichter lösen, da zusammen man ein besseren Überblick
+        über die aktuellen Situation hat. In der Beziehung macht jeder sein Ding, ohne wirklich den anderen zu stören. \n\n
+        Nachteile : \n\n
+        Da die Energien sehr unterschiedlich sind und die Wahrnehmung der Welt anders ist, muss man sich sehr oft erklären,
+        wieso man so oder so gemacht oder gesagt hat, was ansengend sein kann. Da in der Beziehung keine Hierarchie herrscht,
+        kann es manchmal zu Streit oder sogar regelmäßig zu Streit kommen, weil einer von den beiden die „Herrschaft“ an sich
+        reißen will und alle wichtigen Entscheidungen treffen möchte. Damit die Beziehung funktioniert, braucht es ein gewisses
+        Maß an der Anpassung.</string>
+
+
+
+    <string name="abstand_3">Die Energien, die Sie und Ihr Partner sind nicht kompatibel. Die Beziehung zeichnet sich eher,
+        wenn sie besteht, durch viel Geduld, passive Aggressivität und den Wunsch einander zu verletzen. \n\n
+        Vorteile : \n\n
+        Nicht alle Menschen sind gleich, manche wollen Ruhe und Geborgenheit, die anderen brauchen Streit und Adrenalin im Blut.
+        So eine Beziehung ist genau richtig für Streithennen. In so einer Beziehung schätzt man einander nicht wirklich, also das
+        gibt eine gewisse Freiheit und Egalität im Bezug auf den Partner. \n\n
+        Nachteile : \n\n
+        Streit ist alltäglicher Begleiter so einer Beziehung. Man versteht einander nicht und will auch nicht verstehen.
+        Jede Kleinigkeit wird zu Problem und Stress, für den man Energie bereit haben muss. Das ist aber nicht immer möglich,
+        was zu Problem werden kann, in solchen Momenten wird man sicher wollen, die Beziehung aufzugeben. In so einer Beziehung
+        kann es zum übermäßigen Konsum von Alkohol, anderen Drogen oder  dem Bedürfnis, sich stark abzulenken z.B. mit Fernsehen
+        oder Computerspielen führen.</string>
+
+
+    <string name="abstand_4">Die Energien sind sehr gut kompatibel, da es auch dasselbe Element ist. Die Beziehung wird aber
+        von Ihrem Partner energetisch dominiert. Das bedeutet Sie spielen in der Beziehung höchstwahrscheinlich immer die zweite
+        Geige und immer das Gefühl haben, sich beweisen zu müssen. \n\n
+        Vorteile : \n\n
+        In der Beziehung fühlt man sich geborgen und verstanden. Man sieht die Welt ähnlich und kann auf einander eingehen.
+        Es ist auch Interesse da für einander. Wenn man nicht gerade  tendiert, alles zu kontrollieren und bereit ist, dem
+        Partner die Möglichkeit zu geben, dominanter zu sein, wird es ein harmonisches Miteinander sein. Diese Art von Beziehung
+        ist am besten für die, die so wie so nicht den „Boss“ spielen wollen und sich von der Natur aus eher leiten lassen wollen.
+        Es kommt aber auch auf den Charakter einer Person an, es kann passieren, dass Ihr Partner nicht dominant in der
+        Beziehung sein will, dann sind Sie der Entscheidungsträger und es herrscht dann der Balance in der Beziehung. \n\n
+        Nachteile : \n\n
+        Die energetische Dominanz kann natürlich von Ihrem Partner ab und zu missbraucht werden, dann kann es zum Streit
+        kommen. In so einer Situation würden Sie sich sehr verletzt fühlen und lange nachtragend sein.</string>
+
+
+    <string name="abstand_5">Die Energien sind nicht wirklich kompatibel, man stößt sich ab, so zu sagen. Sie fühlen keine Nähe,
+        sondern den deutlichen Abstand von Ihrem Partner. Die Beziehung ist eher Nötigung als Miteinander sein. Sie verlangt
+        sehr viel Geduld und Kraft ab. \n\n
+        Vorteile : \n\n
+        Wenn man eine streitsüchtige Person ist und immer nach der Möglichkeit sucht, jemanden anzugreifen, dann ist so eine
+        Beziehung auch passend dafür. Wenn man so eine Beziehung führt und arbeitet daran sie aufrechtzuerhalten, dann wird
+        man mit der Zeit merken, dass man viel geduldiger und gefasster geworden ist, als davor. \n\n
+        Nachteile :  \n\n
+        Energetisch gesehen ist so eine Beziehung immer Stress. Man sieht die Welt und reagiert auf sie anders. In so einer
+        Beziehung kann und meistens will man nicht, den anderen verstehen. Man muss damit arrangieren, dass man fast immer
+        passiv-aggressive ist, was Nerven und Kraft kostet.</string>
+
+
+    <string name="abstand_6">Es herrscht keine Hierarchie in der Beziehung, die Energien sind gleich stark und verschieden.
+        Die Beziehung zeichnet sich eher durch gegenseitigen Respekt und Interesse für einander. \n\n
+        Vorteile : \n\n
+        In der Beziehung herrscht Neutralität und Respekt zu einander. So eine Beziehung ist am besten für Menschen, die
+        eigenständig und autark sind. Man sieht die Welt von verschieden Seiten, aber das führt nicht zum Streit, sondern
+        ist für beide eher lehrreich und interessant. \n\n
+        Nachteile : \n\n
+        Verliebtheit bis auf beide Ohren ist hier kaum möglich. Menschen, die gerne kuscheln oder wollen sehr nah und eng
+        mit dem Partner koexistieren, werden in so einer Beziehung Problemen haben.</string>
+
+
+    <string name="abstand_7">Die Energien stoßen sich eher ab, sind nicht wirklich kompatibel. Es herrscht keine Hierarchie
+        in der Beziehung, also es ist eher hin und her. Die Beziehung zeichnet eher durch Angriffslustigkeit als durch Liebe. \n\n
+        Vorteile :  \n\n
+        Die Menschen sind verschieden, manche wollen Ruhe und Geborgenheit, die anderen wollen Aktion und Adrenalin. So eine
+        Beziehung ist genau richtig für die zweite Sorte. Wenn man nicht die ganze Zeit sich neben einander aufhält und zusammen
+        nur ein paar Stunden am Tag verbringt, dann kann es vielleicht interessant und erfrischend sein. Sexleben kann bei solchen
+        Paaren sehr intensive und aufregend sein, zumindest am Anfang. \n\n
+        Nachteile : \n\n
+        So eine Beziehung funktioniert nur, wenn beide relativ wenig Zeit miteinander verbringen, weil die Energien sich
+        eher gegenseitig verletzen, als unterstützen. Mit der Zeit kann es dazu kommen, dass die beiden relativ wenig Wert
+        auf einander legen und es wird beiden egal, was der andere denkt, tut oder sagt.</string>
+
+
+    <string name="abstand_8">Sie dominieren energetisch in der Beziehung. Die Beziehung zeichnet sich durch Geborgenheit,
+        Verständnis und Sympathie zu einander. \n\n
+        Vorteile : \n\n
+        In der Beziehung fühlt man sich geborgen und verstanden. Die Wahrnehmung der Welt ist gleich oder sehr ähnlich, was dazu
+        führt, dass man über alles reden kann und versteht einander sehr gut. Wenn Ihr Partner damit einverstanden ist, dass Sie
+        führen und Sie die energetische Dominanz, die Sie gegenüber Ihrem Partner haben, nicht missbrauchen, kann in der Beziehung
+        Harmonie und Verständnis herrschen. \n\n
+        Nachteile :  \n\n
+        Wenn Ruhe und Geborgenheit nicht gerade Ihr Ding ist und Sie die energetische Dominanz regelmäßig missbrauchen, dann
+        wird die Beziehung nicht sehr lange halten.</string>
+
+
+    <string name="abstand_9">Die Energien passen zu einander nicht wirklich. Es ist eher ein passiv-aggressiver Kampf in der Beziehung.
+        Ihre Energie ist etwas dominanter als von Ihrem Partner, er/sie akzeptiert das aber nicht und kämpft dagegen. Auf Dauer wird
+        es sehr anstrengend und Nerven zerrend, zusammen zu sein. \n\n
+        Vorteile : \n\n
+        Wer gerne Geduld und Menschenliebe üben möchte, dann wäre so eine Beziehung genau richtig, man hätte genug Situationen,
+        wo man Wut und Aggressionen kontrollieren müsste. Der ständiger energetischer Kampf kann auch für die Menschen aufregend
+        sein, die gerne streiten, um Frust und Unzufriedenheit abzubauen. \n\n
+        Nachteile : \n\n
+        Geborgenheit, Liebe und Ruhe sucht man bei so einer Beziehung vergebens. Negative Gefühle und die dunkle Seite, die
+        jeder von uns hat, dominieren bei so einer Kombination von Energien. Wer kein Bock auf diese ständige Achterband von
+        Gefühlen hat, wird sich aus der Beziehung zurückziehen.</string>
+
+
+    <string name="abstand_10">Die Energien sind gleich stark und es herrscht dadurch keine energetische Hierarchie in der Beziehung.
+        Die Beziehung zeichnet sich im besten Fall durch Interesse zu einander und Respekt. \n\n
+        Vorteile : \n\n
+        Solche Art von Beziehung kann sehr bereichern sein, denn Sie und Ihr Partner haben verschiedenen Perspektiven auf die
+        Welt, was interessant sein kann. Solche Kombination eher für autarke Menschen von Interesse. Menschen, die unbedingt
+        sehr nah und intensive bei ihrem Partner sein wollen, werden feststellen, dass in solcher Beziehung das einfach nicht geht.
+        Ein gewisser Abstand und Respekt zeichnen solche Paare aus. \n\n
+        Nachteile : \n\n
+        Da keine Hierarchie in der Beziehung herrscht, kann zu Machtkampf führen, was zu großen Streiten regelmäßig führen kann.
+        In solchen Beziehungen fühlen sich wirklich nicht alle wohl, denn die verschiedene Sicht auf die Dinge kann auch zu Streit
+        führen, ohne dass man merkt, dass man einfach verschiedene Seiten einer Situation betrachtet und dass die beiden auf ihre
+        Weise Recht haben.</string>
+
+    <string name="abstand_11">Es gibt Hierarchie in der Beziehung und die Energie von Ihrem Partner dominiert über Ihre.
+        Die Beziehung zeichnet sich im Großen und Ganzen durch Sympathie zu einander. \n\n
+        Vorteile : \n\n
+        Wenn Sie nicht unbedingt so eine Person sind, die gerne die Kontrolle über alle Dinge haben möchte und keine Verantwortung
+        tragen möchte,dann ist so eine Beziehung gut für Sie. Die Energien sind verwandt, was Sympathie und Interesse zu einander
+        wecken kann. Man sieht die Welt etwas anders auch, was dazu führen kann, dass die Beziehung spannend sein kann. \n\n
+        Nachteile : \n\n
+        Wenn Ihr Partner die energetische Dominanz ausnutzt, um Sie zu unterdrücken, werden Sie ihm/ihr das sehr lange übel nehmen
+        und es wird regelmäßig zu großen Streiten kommen. Wobei bei Ihnen die Spannung und Hass von Mal zu Mal immer
+        großer sein werden.</string>
+
+
+    <string name="toolbar_text_geburtstagseingabe">Geben Sie Ihr Geburtsdatum ein</string>
+    <string name="toolbar_text_choose_options">Bitte wählen Sie Optionen aus</string>
+    <string name="subtitel_text_choose_options">Optionen, die Beziehung haben soll</string>
+    <string name="options_1">Ich will respektiert werden</string>
+    <string name="options_2">Ich will mein Partner respektieren</string>
+    <string name="options_3">Ich will Verständnis und Geborgenheit</string>
+    <string name="options_4">Ich brauche einen Partner, den ich mehr hasse als liebe</string>
+    <string name="options_5">Ich will, dass die Beziehung interessant ist</string>
+    <string name="options_6">Ich brauche Freiraum und Abstand</string>
+    <string name="options_7">Ich will in der Beziehung dominieren</string>
+    <string name="options_8">Ich will, dass mein Partner in der Beziehung dominiert</string>
+    <string name="options_9">Ich will, dass keiner in der Beziehung dominiert</string>
+    <string name="Steinbock">Steinbock</string>
+    <string name="Wassermann">Wassermann</string>
+    <string name="Fische">Fische</string>
+    <string name="Widder">Widder</string>
+    <string name="Stier">Stier</string>
+    <string name="Zwillinge">Zwillinge</string>
+    <string name="Krebs">Krebs</string>
+    <string name="Loewe">Löwe</string>
+    <string name="Jungfrau">Jungfrau</string>
+    <string name="Waage">Waage</string>
+    <string name="Skorpion">Skorpion</string>
+    <string name="Schuetze">Schütze</string>
+    <string name="Sternzeichen_info_toolbar">Sternzeichen</string>
+</resources>

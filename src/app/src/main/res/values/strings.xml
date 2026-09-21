@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">SeeSigns</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- Strings used for fragment_first  -->
+    <string name="toolbar_text">Please select an option</string>
+    <string name="button1_text">What you have</string>
+    <string name="button2_text">What you need</string>
+
+    <!-- Strings used for warning_layout  -->
+    <string name="warning_toolbar_text">Please notice</string>
+    <string name="warning_text">"The energy between two people cannot be described solely in terms of zodiac signs and their effect on each other, because not everyone is physically compatible. For example, at least half of the people you meet during the day are not physically compatible with you. Only the people you find more or less likable are usually physically compatible with you. The best zodiac sign compatibility does not help if you cannot stand each other physically. You can only think about zodiac signs if you have at least one partner whose closeness you can tolerate. So if you feel stressed, uncomfortable, and oppressed next to a person, then you cannot stand that person physically, and further analysis of the relationship is unnecessary. A good example of absolute physical and energetic compatibility is identical twins. They have the same DNA and the same zodiac sign. So if you use this app, it is assumed that you can tolerate your partner physically for the most part.     "</string>
+
+    <!-- Strings used for fragment_second  -->
+    <string name="toolbar_text_birth_dates">Please enter the dates of birth</string>
+    <string name="text_feld_you">You</string>
+    <string name="text_feld_partner">Partner</string>
+    <string name="date_text_default">dd.mm.yyyy</string>
+
+    <!-- Strings used for beschreibung_layout  -->
+    <string name="toolbar_text_beschreibung">Relationship description</string>
+
+    <string name="abstand_0">The energies that you and your partner have are the same. This type of relationship is more suited to
+        people who are looking for understanding, security, and comfort. There may be frequent arguments or power struggles, but
+        these are more for entertainment than anything serious. \n\n
+        Advantages:\n\n
+        Since your energies are the same, you feel secure and understood. Since you react to the world in almost the same way, you
+        understand each other very well. If an argument arises and you cross the line, even during the argument, your partner will
+        not take it personally, and once the argument is over, you can almost immediately resume talking normally. In this relationship,
+        you don\'t really have to make an effort; everything just flows naturally. You don\'t have to pretend or adapt too much. \n\n
+        Disadvantages: \n\n
+        Having the same energy also means that things can get boring pretty quickly, which can lead to more frequent arguments.
+        You then have to try to find something to do together, such as dancing, for example. To avoid boredom in the relationship,
+        you need friends or other couples who can bring variety to the relationship.</string>
+
+
+
+
+    <string name="abstand_1">The energies you have with your partner are similar. Your energy is slightly more dominant than your
+        partner\'s, which brings with it a certain responsibility, as you can very easily hurt your partner, for example, in an
+        argument. \n\n
+        Advantages: \n\n
+        Since the energies are similar, you feel more like buddies and friends with your partner. The slight difference in energies
+        means that you and your partner perceive the world slightly differently and react to it differently, which makes the relationship
+        more interesting. \n\n
+        Disadvantages:\n\n
+        Since you have the more dominant energy than your partner, you can sometimes simply impose certain things or decisions on
+        your partner. This can lead to problems, especially if your partner wants equality. In addition, since your perceptions of
+        the world are somewhat different, you will need to explain things to each other from time to time and talk a lot to make
+        the relationship work. You will need to learn not to always use your “power” in the relationship, which can be exhausting.</string>
+
+
+
+    <string name="abstand_2">The energies are clearly different, but still compatible, and neither dominates the other in the
+        relationship. \n\n
+        Advantages: \n\n
+        Since the energies are very different, the relationship is very refreshing and interesting. Everyone can express their point
+        of view, and that\'s okay. Together, problems can be solved much more easily, as together you have a better overview of the
+        current situation. In the relationship, each person does their own thing without really disturbing the other. \n\n
+        Disadvantages:\n\n
+        Since the energies are very different and the perception of the world is different, you often have to explain why you did
+        or said something, which can be annoying. Since there is no hierarchy in the relationship, arguments can sometimes arise,
+        or even regularly, because one of the two wants to take control and make all the important decisions. For the relationship
+        to work, a certain amount of adaptation is necessary.</string>
+
+
+
+    <string name="abstand_3">The energies that you and your partner have are not compatible. If the relationship does exist, it is
+        characterized by a lot of patience, passive aggression, and the desire to hurt each other.\n\n
+        Advantages: \n\n
+        Not all people are the same; some want peace and security, while others need conflict and adrenaline in their blood.
+        This kind of relationship is just right for quarrelsome people.\nIn such a relationship, you don\'t really appreciate each
+        other, so there is a certain freedom and equality in relation to your partner. \n\n
+        Disadvantages : \n\n
+        Arguments are a daily occurrence in such a relationship. You don\'t understand each other and don\'t want to understand each
+        other. Every little thing becomes a problem and stress, for which you have to have energy ready. But that\'s not always
+        possible, which can become a problem. In such moments, you will certainly want to give up the relationship.
+        In such a relationship, it can lead to excessive consumption of alcohol, other drugs, or the need to distract
+        yourself, e.g., with television or computer games.</string>
+
+
+    <string name="abstand_4">The energies are very compatible, as it is also the same element. However, the relationship is dominated
+        energetically by your partner. This means that you will most likely always play second fiddle in the relationship and always
+        feel like you have to prove yourself.\n\n
+        Advantages:\n\n
+        You feel secure and understood in the relationship. You see the world in a similar way and can respond to each other.
+        There is also mutual interest. If you don\'t tend to control everything and are willing to give your partner the opportunity
+        to be more dominant, it will be a harmonious relationship. This type of relationship is best for those who don\'t want to
+        play the “boss” anyway and, by nature, prefer to be led. However, it also depends on a person\'s character. It may happen
+        that your partner does not want to be dominant in the relationship, in which case you are the decision-maker and there
+        is balance in the relationship.\n\n
+        Disadvantages: \n\n
+        Your partner may occasionally abuse their energetic dominance, which could lead to conflict. In such a situation,
+        you would feel very hurt and hold a grudge for a long time.</string>
+
+
+
+    <string name="abstand_5">The energies are not really compatible; you repel each other, so to speak. You do not feel closeness,
+        but rather a distinct distance from your partner. The relationship is more coercion than togetherness. It demands a great
+        deal of patience and strength.\n\n
+        Advantages:\n\n
+        If you are a quarrelsome person and are always looking for opportunities to attack someone, then this kind of relationship
+        is also suitable for you. If you are in this kind of relationship and work to maintain it, you will notice over time that
+        you have become much more patient and composed than before.\n\n
+        Disadvantages: \n\n
+        From an energetic point of view, such a relationship is always stressful. You see the world and react to it differently.
+        In such a relationship, you cannot and usually do not want to understand the other person.You have to come to terms with
+        the fact that you are almost always passive-aggressive, which costs nerves and energy.</string>
+
+
+
+    <string name="abstand_6">There is no hierarchy in the relationship; the energies are equally strong and different.
+        The relationship is characterized more by mutual respect and interest in each other.\n\n
+        Advantages: \n\n
+        The relationship is characterized by neutrality and mutual respect. This type of relationship is best for people who are
+        independent and self-sufficient. You see the world from different perspectives, but this does not lead to arguments;
+        rather, it is educational and interesting for both parties.\n\n
+        Disadvantages: \n\n
+        It is hardly possible to fall head over heels in love here. People who like to cuddle or want to coexist very closely
+        with their partner will have problems in such a relationship.</string>
+
+
+    <string name="abstand_7">The energies tend to repel each other and are not really compatible. There is no hierarchy in the
+        relationship, so it tends to go back and forth. The relationship is characterized more by aggression than by love.\n\n
+        Advantages: \n\n
+        People are different; some want peace and security, others want action and adrenaline. This kind of relationship is
+        just right for the latter. If you don\'t spend all your time together and only see each other for a few hours a day,
+        it can be interesting and refreshing. Sex life can be very intense and exciting for such couples, at least in the beginning. \n\n
+        Disadvantages: \n\n
+        Such a relationship only works if both partners spend relatively little time together, because their energies tend to
+        hurt each other rather than support each other. Over time, the two may come to place relatively little value on each
+        other and neither will care what the other thinks, does, or says.</string>
+
+
+    <string name="abstand_8">You dominate energetically in the relationship. The relationship is characterized by security,
+        understanding, and sympathy for each other.\n\n
+        Advantages: \n\n
+        You feel secure and understood in the relationship. Your perception of the world is the same or very similar, which
+        means you can talk about anything and understand each other very well. If your partner agrees to you taking the lead
+        and you do not abuse the energetic dominance you have over your partner, harmony and understanding can prevail in
+        the relationship. \n\n
+        Disadvantages: \n\n
+        If peace and security are not really your thing and you regularly abuse your energetic dominance, then the relationship
+        will not last very long.</string>
+
+
+    <string name="abstand_9">The energies don\'t really match. It\'s more of a passive-aggressive battle in the relationship.
+        Your energy is slightly more dominant than your partner\'s, but he/she doesn\'t accept this and fights against it. In
+        the long run, being together becomes very exhausting and nerve-wracking.\n\n
+        Advantages: \n\n
+        If you want to practice patience and love for your fellow human beings, then this kind of relationship would be just
+        right for you, as you would have plenty of situations where you would need to control your anger and aggression.
+        The constant energetic struggle can also be exciting for people who like to argue in order to relieve frustration
+        and dissatisfaction. \n\n
+        Disadvantages: \n\n
+        You will search in vain for security, love, and peace in such a relationship. Negative feelings and the dark side that
+        each of us has dominate in such a combination of energies. Those who are not up for this constant roller coaster of emotions
+        will withdraw from the relationship.</string>
+
+
+    <string name="abstand_10">The energies are equally strong, and as a result, there is no energetic hierarchy in the relationship.
+        In the best case scenario, the relationship is characterized by mutual interest and respect.\n\n
+        Advantages: \n\n
+        This type of relationship can be very enriching, because you and your partner have different perspectives on the world,
+        which can be interesting. This combination is more likely to appeal to self-sufficient people. People who want to be very
+        close and intimate with their partner will find that this is simply not possible in such a relationship. A certain distance
+        and respect characterize such couples.\n\n
+        Disadvantages: \n\n
+        Since there is no hierarchy in the relationship, it can lead to power struggles, which can regularly lead to major arguments.
+        Not everyone feels comfortable in such relationships, because different perspectives on things can also lead to arguments
+        without realizing that you are simply looking at different sides of a situation and that both of you are right in your own way.</string>
+
+
+    <string name="abstand_11">There is a hierarchy in the relationship, and your partner\'s energy dominates yours. Overall, the
+        relationship is characterized by mutual sympathy.\n\n
+        Advantages: \n\n
+        If you are not necessarily the type of person who likes to be in control of everything and does not want to take
+        responsibility, then this type of relationship is good for you. The energies are similar, which can awaken sympathy
+        and interest in each other. You also see the world a little differently, which can make the relationship exciting.\n\n
+        Disadvantages: \n\n
+        If your partner exploits their energetic dominance to oppress you, you will resent them for a very long time and there
+        will be regular major arguments. The tension and hatred will grow greater and greater each time.</string>
+
+    <!-- Strings used for fragment_third  -->
+    <string name="toolbar_text_geburtstagseingabe">Please enter your date of birth</string>
+
+    <!-- Strings used for fragment_forth  -->
+    <string name="toolbar_text_choose_options">Please select the options</string>
+    <string name="subtitel_text_choose_options">Options that the relationship should have</string>
+
+    <string name="options_1">I want to be respected</string>
+    <string name="options_2">I want to respect my partner</string>
+    <string name="options_3">I want understanding and secureness</string>
+    <string name="options_4">I need a partner I hate more than I love</string>
+    <string name="options_5">I want the relationship to be interesting</string>
+    <string name="options_6">I need a lot of space and distance</string>
+    <string name="options_7">I want to dominate in the relationship</string>
+    <string name="options_8">I want my partner to dominate in the relationship</string>
+    <string name="options_9">I want no one to dominate in the relationship</string>
+
+    <string name="Steinbock">Capricorn</string>
+    <string name="Wassermann">Aquarius</string>
+    <string name="Fische">Pisces</string>
+    <string name="Widder">Aries</string>
+    <string name="Stier">Taurus</string>
+    <string name="Zwillinge">Gemini</string>
+    <string name="Krebs">Cancer</string>
+    <string name="Loewe">Leo</string>
+    <string name="Jungfrau">Virgo</string>
+    <string name="Waage">Libra</string>
+    <string name="Skorpion">Scorpio</string>
+    <string name="Schuetze">Sagittarius</string>
+
+    <!-- Strings used for help_layout  -->
+    <string name="Sternzeichen_info_toolbar">Zodiac signs</string>
+
+
+
+
+
+
+
+
+</resources>

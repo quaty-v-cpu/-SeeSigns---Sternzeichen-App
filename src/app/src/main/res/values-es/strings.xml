@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeeSigns</string>
+    <string name="toolbar_text">Seleccione una opción</string>
+    <string name="button1_text">Lo que tienes</string>
+    <string name="button2_text">Lo que necesitas</string>
+    <string name="warning_toolbar_text">Por favor, tenga en cuenta</string>
+    <string name="warning_text">La energía entre dos personas no puede describirse únicamente en términos de signos del zodiaco y su efecto mutuo, porque no todo el mundo es físicamente compatible. Por ejemplo, al menos la mitad de las personas con las que te encuentras a lo largo del día no encajan físicamente contigo. Solo las personas que te caen más o menos bien suelen ser físicamente compatibles contigo. La mejor compatibilidad entre signos del zodíaco no sirve de nada si no se soportan físicamente. Solo se puede pensar en los signos del zodíaco si se tiene al menos una pareja con la que se puede soportar la cercanía. Por lo tanto, si te sientes estresado, incómodo y oprimido junto a una persona, entonces no puedes soportarla físicamente, y no tiene sentido seguir analizando la relación. Un buen ejemplo de compatibilidad física y energética absoluta son los gemelos idénticos. Tienen el mismo ADN y el mismo signo zodiacal. Por lo tanto, si utilizas esta aplicación, se supone que, en general, puedes soportar físicamente a tu pareja.</string>
+    <string name="toolbar_text_birth_dates">Introduzca las fechas de nacimiento</string>
+    <string name="text_feld_you">Usted</string>
+    <string name="text_feld_partner">Socio</string>
+    <string name="date_text_default">dd.mm.yyyy</string>
+    <string name="toolbar_text_beschreibung">Descripción de la relación</string>
+
+
+    <string name="abstand_0">Las energías que usted y su pareja tienen son iguales. Este tipo de relación es más adecuada para personas
+        que buscan comprensión, seguridad y comodidad. Puede haber discusiones o luchas de poder con frecuencia, pero estas se
+        consideran más bien como entretenimiento y no se toman en serio. \n\n
+        Ventajas : \n\n
+        Como las energías son iguales, uno se siente seguro y comprendido. Como se reacciona casi de la misma manera ante el mundo,
+        se entiende muy bien. Si surge una discusión y se  cruza el límite, la pareja no se lo toma como algo personal y, una vez
+        terminada la discusión, se puede volver a hablar con normalidad casi de inmediato. En la relación no hay que esforzarse
+        realmente, todo fluye con naturalidad. No hay que fingir ni adaptarse mucho. \n\n
+        Desventajas : \n\n
+        La misma energía también significa que puede volverse aburrido bastante rápido, lo que puede llevar a discutir más a menudo.
+        Entonces hay que intentar hacer algo juntos, como bailar, por ejemplo. Para evitar el aburrimiento en la relación, se
+        necesitan amigos u otras parejas que aporten variedad a la relación.</string>
+
+
+    <string name="abstand_1">Las energías que tiene con su pareja son similares. Su energía es un poco más dominante que la de su
+        pareja, lo que conlleva cierta responsabilidad, ya que puede herir fácilmente a su pareja, por ejemplo, en una discusión. \n\n
+        Ventajas : \n\n
+        Como las energías son similares, se siente más como un compañero y amigo de su pareja. La ligera diferencia en las energías
+        hace que tú y tu pareja percibáis el mundo de forma ligeramente diferente y reaccionéis de manera distinta, lo que hace que la
+        relación sea más interesante. \n\n
+        Desventajas : \n\n
+        Como tienes una energía más dominante que tu pareja, a veces puedes imponer algunas cosas o decisiones sin tener en cuenta
+        la opinión de tu pareja. Esto puede causar problemas, especialmente si tu pareja quiere igualdad. Además, como la percepción
+        del mundo es algo diferente, hay que explicarse de vez en cuando y hablar mucho para que la relación funcione. Debe aprender
+        a no tener que utilizar siempre su «poder» en la relación, lo que puede resultar agotador.</string>
+
+
+    <string name="abstand_2">Las energías son claramente diferentes, pero siguen siendo compatibles y ninguna domina a la otra en
+        la relación. \n\n
+        Ventajas : \n\n
+        Dado que las energías son muy diferentes, la relación es muy estimulante e interesante. Cada uno puede expresar su punto de
+        vista y eso está bien. Juntos se pueden resolver los problemas mucho más fácilmente, ya que juntos se tiene una mejor visión
+        general de la situación actual. En la relación, cada uno hace lo suyo sin molestar realmente al otro. \n\n
+        Desventajas : \n\n
+        Dado que las energías son muy diferentes y la percepción del mundo es distinta, a menudo hay que explicar por qué se ha
+        hecho o dicho algo de una manera determinada, lo que puede resultar agotador. Como en la relación no hay jerarquía, a veces
+        pueden surgir discusiones o incluso disputas frecuentes, porque uno de los dos quiere tomar el «control» y tomar todas las
+        decisiones importantes. Para que la relación funcione, se necesita un cierto grado de adaptación.</string>
+
+
+    <string name="abstand_3">Las energías que tú y tu pareja tenéis no son compatibles. La relación, si es que existe, se caracteriza
+        más bien por mucha paciencia, agresividad pasiva y el deseo de hacerse daño mutuamente. \n\n
+        Ventajas : \n\n
+        No todas las personas son iguales, algunas quieren tranquilidad y seguridad, otras necesitan discusiones y adrenalina en la
+        sangre. Una relación así es perfecta para las personas conflictivas. En una relación así no se aprecian realmente el uno al
+        otro, lo que da cierta libertad e igualdad con respecto a la pareja. \n\n
+        Desventajas : \n\n
+        Las discusiones son el pan de cada día en una relación así. No se entienden el uno al otro y tampoco quieren entenderse.
+        Cada pequeña cosa se convierte en un problema y en estrés, para lo que hay que tener energía. Pero eso no siempre es
+        posible, lo que puede convertirse en un problema, y en esos momentos seguramente se querrá abandonar la relación.
+        En una relación así puede llevar al consumo excesivo de alcohol, otras drogas o la necesidad de distraerse mucho, por
+        ejemplo, con la televisión o los videojuegos.</string>
+
+
+    <string name="abstand_4">Las energías son muy compatibles, ya que también es el mismo elemento. Sin embargo, la relación está
+        dominada energéticamente por su pareja. Esto significa que, muy probablemente, usted siempre desempeñará un papel secundario
+        en la relación y siempre tendrá la sensación de tener que demostrar su valía. \n\n
+        Ventajas : \n\n
+        En la relación te sientes seguro y comprendido. Tenéis una visión similar del mundo y podéis comprenderos mutuamente.
+        También hay interés mutuo. Si no tiendes a controlarlo todo y estás dispuesto a dar a tu pareja la oportunidad de ser
+        más dominante, la convivencia será armoniosa. Este tipo de relación es ideal para aquellos que, de todos modos, no quieren
+        ser «el jefe» y, por naturaleza, prefieren dejarse guiar. Sin embargo, también depende del carácter de cada persona,
+        puede ocurrir que su pareja no quiera ser dominante en la relación, entonces usted será el que tome las decisiones y habrá
+        equilibrio en la relación. \n\n
+        Desventajas : \n\n
+        Por supuesto, su pareja puede abusar de vez en cuando de su dominio energético, lo que puede dar lugar a discusiones.
+        En una situación así, usted se sentiría muy herido y le guardaría rencor durante mucho tiempo.</string>
+
+
+    <string name="abstand_5">Las energías no son realmente compatibles, se repelen, por así decirlo. No sientes cercanía, sino
+        una clara distancia con tu pareja. La relación es más una coacción que una convivencia. Requiere mucha paciencia y fuerza. \n\n
+        Ventajas : \n\n
+        Si eres una persona conflictiva y siempre buscas la oportunidad de atacar a alguien , entonces una relación así también es
+        adecuada para ti. Si mantienes una relación así y trabajas para mantenerla, con el tiempo notarás que te has vuelto mucho
+        más paciente y sereno que antes. \n\n
+        Desventajas : \n\n
+        Desde el punto de vista energético, una relación así siempre es estresante. Ves el mundo y reaccionas ante él de manera
+        diferente. En una relación así, no puedes y, en la mayoría de los casos, no quieres comprender al otro. Tienes que aceptar
+        que casi siempre eres pasivo-agresivo, lo que te cuesta nervios y energía.</string>
+
+
+    <string name="abstand_6">No hay jerarquía en la relación, las energías son iguales y diferentes. La relación se caracteriza más
+        bien por el respeto mutuo y el interés por el otro. \n\n
+        Ventajas : \n\n
+        En la relación reina la neutralidad y el respeto mutuo. Este tipo de relación es ideal para personas independientes y
+        autosuficientes. Se ve el mundo desde diferentes perspectivas, pero esto no conduce a discusiones, sino que resulta más
+        bien instructivo e interesante para ambos. \n\n
+        Desventajas : \n\n
+        Aquí es casi imposible enamorarse perdidamente. Las personas a las que les gusta acurrucarse o quieren coexistir muy cerca
+        y en estrecha relación con su pareja tendrán problemas en una relación así.</string>
+
+
+    <string name="abstand_7">Las energías tienden a repelerse, no son realmente compatibles. No hay jerarquía en la relación,
+        por lo que es más bien un tira y afloja. La relación se caracteriza más por la agresividad que por el amor. \n\n
+        Ventajas : \n\n
+        Las personas son diferentes, algunas quieren tranquilidad y seguridad, otras quieren acción y adrenalina. Una relación
+        así es perfecta para el segundo tipo. Si no se está todo el tiempo juntos y solo se pasan unas pocas horas al día juntos,
+        entonces puede ser interesante y refrescante. La vida sexual de estas parejas puede ser muy intensa y emocionante, al
+        menos al principio. \n\n
+        Desventajas : \n\n
+        Una relación así solo funciona si ambos pasan relativamente poco tiempo juntos, porque sus energías tienden a herirse
+        mutuamente en lugar de apoyarse. Con el tiempo, puede suceder que ambos le den relativamente poca importancia al otro y
+        que a ninguno le importe lo que el otro piense, haga o diga.</string>
+
+
+    <string name="abstand_8">Usted domina energéticamente la relación. La relación se caracteriza por la seguridad, la comprensión
+        y la simpatía mutua. \n\n
+        Ventajas : \n\n
+        En la relación, uno se siente seguro y comprendido. La percepción del mundo es igual o muy similar, lo que hace que se
+        pueda hablar de todo y que se comprendan muy bien. Si tu pareja está de acuerdo con que tú lideres y no abusas de la dominancia
+        energética que tienes sobre ella, puede reinar la armonía y la comprensión en la relación. \n\n
+        Desventajas : \n\n
+        Si la tranquilidad y la seguridad no son lo tuyo y abusas regularmente de la dominancia energética , la relación no durará
+        mucho tiempo.</string>
+
+
+    <string name="abstand_9">Las energías no encajan realmente entre sí. Se trata más bien de una lucha pasivo-agresiva en la relación.
+        Su energía es algo más dominante que la de su pareja, pero él/ella no lo acepta y lucha contra ello. A la larga, estar juntos
+        resulta muy agotador y estresante. \n\n
+        Ventajas : \n\n
+        Si te gusta practicar la paciencia y el amor por las personas, entonces una relación así sería perfecta para ti, ya que
+        tendrías suficientes situaciones en las que tendrías que controlar la ira y la agresividad. La lucha energética constante
+        también puede ser emocionante para las personas a las que les gusta discutir para liberar la frustración y la insatisfacción. \n\n
+        Desventajas : \n\n
+        En una relación así, se busca en vano la seguridad, el amor y la tranquilidad. Los sentimientos negativos y el lado oscuro que
+        todos tenemos dominan en una combinación de energías así. Quien no esté dispuesto a soportar esta montaña rusa constante
+        de sentimientos, se retirará de la relación.</string>
+
+
+    <string name="abstand_10">Las energías son iguales y, por lo tanto, no existe una jerarquía energética en la relación. En el mejor
+        de los casos, la relación se caracteriza por el interés mutuo y el respeto. \n\n
+        Ventajas : \n\n
+        Este tipo de relación puede ser muy enriquecedora, ya que usted y su pareja tienen perspectivas diferentes del mundo, lo que
+        puede resultar interesante. Esta combinación suele ser más interesante para personas autónomas. Las personas que desean estar
+        muy cerca e intensamente con su pareja se darán cuenta de que en este tipo de relación eso simplemente no es posible.
+        Estas parejas se caracterizan por una cierta distancia y respeto. \n\n
+        Desventajas : \n\n
+        Al no existir jerarquía en la relación, puede dar lugar a luchas de poder, lo que puede provocar grandes discusiones de
+        forma habitual. No todo el mundo se siente cómodo en este tipo de relaciones, ya que las diferentes perspectivas sobre
+        las cosas también pueden dar lugar a discusiones, sin darse cuenta de que simplemente se están viendo diferentes aspectos
+        de una situación y que ambos tienen razón a su manera.</string>
+
+
+    <string name="abstand_11">Hay jerarquía en la relación y la energía de tu pareja domina sobre la tuya. En general, la relación
+        se caracteriza por la simpatía mutua. \n\n
+        Ventajas : \n\n
+        Si no eres necesariamente una persona a la que le gusta tener el control sobre todo y no quieres asumir responsabilidades,
+        entonces una relación así es buena para ti. Las energías son similares, lo que puede despertar simpatía e interés mutuo.
+        También se ve el mundo de forma algo diferente, lo que puede hacer que la relación sea emocionante. \n\n
+        Desventajas : \n\n
+        Si su pareja aprovecha su dominio energético para oprimirle, usted se lo reprochará durante mucho tiempo y habrá discusiones
+        importantes con frecuencia. Además, la tensión y el odio serán cada vez mayores.</string>
+
+
+    <string name="toolbar_text_geburtstagseingabe">Introduzca su fecha de nacimiento</string>
+    <string name="toolbar_text_choose_options">Seleccione las opciones</string>
+    <string name="subtitel_text_choose_options">Opciones que debería tener la relación</string>
+    <string name="options_1">Quiero que me respeten</string>
+    <string name="options_2">Quiero respetar a mi pareja</string>
+    <string name="options_3">Quiero comprensión y seguridad</string>
+    <string name="options_4">Necesito una pareja a la que odie más de lo que la amo</string>
+    <string name="options_5">Quiero que la relación sea interesante</string>
+    <string name="options_6">Necesito mucho espacio y distancia</string>
+    <string name="options_7">Quiero dominar energéticamente en la relación</string>
+    <string name="options_8">Quiero que mi pareja sea dominante en la relación</string>
+    <string name="options_9">No quiero que nadie domine en la relación</string>
+    <string name="Steinbock">Capricornio</string>
+    <string name="Wassermann">Acuario</string>
+    <string name="Fische">Piscis</string>
+    <string name="Widder">Aries</string>
+    <string name="Stier">Tauro</string>
+    <string name="Zwillinge">Géminis</string>
+    <string name="Krebs">Cáncer</string>
+    <string name="Loewe">Leo</string>
+    <string name="Jungfrau">Virgo</string>
+    <string name="Waage">Libra</string>
+    <string name="Skorpion">Escorpio</string>
+    <string name="Schuetze">Sagitario</string>
+    <string name="Sternzeichen_info_toolbar">Signos del zodíaco</string>
+</resources>

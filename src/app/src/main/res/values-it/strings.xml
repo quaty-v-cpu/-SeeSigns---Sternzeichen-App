@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeeSigns</string>
+    <string name="toolbar_text">Seleziona un\'opzione</string>
+    <string name="button1_text">Quello che hai</string>
+    <string name="button2_text">Cosa ti serve</string>
+    <string name="warning_toolbar_text">Si prega di notare</string>
+    <string name="warning_text">L\'energia tra due persone non può essere descritta solo in termini di segni zodiacali e del loro effetto reciproco, perché non tutti sono fisicamente compatibili. Ad esempio, almeno la metà delle persone che si incontrano durante\n        la giornata non sono fisicamente compatibili. Solo le persone che si ritengono più o meno simpatiche sono normalmente fisicamente\n        compatibili. La migliore compatibilità dei segni zodiacali non serve a nulla se non si riesce a sopportarsi fisicamente.\n        Si può pensare ai segni zodiacali solo se si ha almeno un partner di cui si sopporta la vicinanza. Quindi, se ci si sente\n        stressati, a disagio e oppressi accanto a una persona, significa che non la si sopporta fisicamente e che un\'ulteriore analisi\n        della relazione è superflua. Un buon esempio di compatibilità fisica ed energetica assoluta sono i gemelli identici. Hanno\n        lo stesso DNA e lo stesso segno zodiacale. Quindi, se usi questa app, si presume che tu possa sopportare fisicamente il tuo\n        partner nel complesso.</string>
+
+
+    <string name="toolbar_text_birth_dates">Inserisci le date di nascita</string>
+    <string name="text_feld_you">Tu</string>
+    <string name="text_feld_partner">Partner</string>
+    <string name="date_text_default">dd.mm.yyyy</string>
+    <string name="toolbar_text_beschreibung">Descrizione della relazione</string>
+
+
+    <string name="abstand_0">Le energie che avete voi e il vostro partner sono uguali. Una relazione di questo tipo è più adatta a persone
+        che cercano comprensione, sicurezza e comodità. Possono verificarsi spesso litigi o lotte di potere, ma si tratta piuttosto di
+        divertimento e non di cose serie. \n\n
+        Vantaggi : \n\n
+        Poiché le energie sono uguali, ci si sente al sicuro e compresi. Poiché si reagisce al mondo in modo quasi identico, ci si
+        capisce molto bene. Se si verifica una lite e se si  superano i limiti anche durante la lite, il partner non la prende sul
+        personale e quando la lite è finita, si può tornare a parlare normalmente quasi immediatamente. Nella relazione non è
+        necessario sforzarsi davvero, tutto va come deve andare. Non è necessario fingere o adattarsi molto. \n\n
+        Svantaggi : \n\n
+        la stessa energia significa anche che ci si può annoiare abbastanza rapidamente, il che può portare a litigare più spesso.
+        Bisogna quindi cercare di trovare qualcosa da fare insieme, come ballare, ad esempio. Per evitare la noia nella relazione,
+        servono amici o altre coppie che portino varietà nella relazione.</string>
+
+
+    <string name="abstand_1">Le energie che avete con il vostro partner sono simili. La vostra energia è leggermente più dominante di
+        quella del vostro partner, il che comporta una certa responsabilità, poiché potreste ferirlo molto facilmente,
+        ad esempio durante una discussione. \n\n
+        Vantaggi : \n\n
+        Poiché le energie sono simili, vi sentite più come compagni e amici con il vostro partner. La leggera differenza di energia fa
+        sì che voi e il vostro partner percepiate il mondo in modo leggermente diverso e reagite in modo diverso, il che rende
+        la relazione più interessante. \n\n
+        Svantaggi : \n\n
+        Poiché avete un\'energia più dominante rispetto al vostro partner, a volte potete semplicemente imporre alcune cose o decisioni
+        senza consultare il vostro partner. Questo può causare problemi, soprattutto se il vostro partner desidera la parità. Inoltre,
+        poiché la percezione del mondo è leggermente diversa, di tanto in tanto è necessario spiegarsi e parlare molto affinché la
+        relazione funzioni. Dovete imparare a non usare sempre il vostro “potere” nella relazione, cosa che può essere opprimente.</string>
+
+
+    <string name="abstand_2">Le energie sono nettamente diverse, ma comunque compatibili e nessuno dei due domina l\'altro nella relazione. \n\n
+        Vantaggi : \n\n
+        Poiché le energie sono molto diverse, la relazione è molto stimolante e interessante. Ognuno può esprimere il proprio punto
+        di vista e questo va bene. Insieme è molto più facile risolvere i problemi, perché insieme si ha una visione più chiara della
+        situazione attuale. Nella relazione ognuno fa le proprie cose senza disturbare realmente l\'altro. \n\n
+        Svantaggi : \n\n
+        Poiché le energie sono molto diverse e la percezione del mondo è diversa, molto spesso è necessario spiegare perché si è fatto
+        o detto qualcosa in un certo modo, il che può essere fastidioso. Poiché nella relazione non esiste una gerarchia, a volte
+        possono verificarsi litigi o addirittura discussioni regolari, perché uno dei due vuole prendere il “comando” e prendere
+        tutte le decisioni importanti. Affinché la relazione funzioni, è necessario un certo grado di adattamento.</string>
+
+
+    <string name="abstand_3">Le energie che caratterizzano te e il tuo partner non sono compatibili. Se la relazione va avanti, è
+        caratterizzata piuttosto da molta pazienza, aggressività passiva e desiderio di ferirsi a vicenda. \n\n
+        Vantaggi : \n\n
+        Non tutte le persone sono uguali, alcune desiderano tranquillità e sicurezza, altre hanno bisogno di litigi e adrenalina nel
+        sangue. Una relazione di questo tipo è perfetta per chi ama litigare. In una relazione del genere non ci si apprezza veramente,
+        quindi c\'è una certa libertà e uguaglianza nei confronti del partner. \n\n
+        Svantaggi : \n\n
+        I litigi sono all\'ordine del giorno in una relazione del genere. Non ci si capisce e non si vuole nemmeno capirsi.
+        Ogni piccola cosa diventa un problema e uno stress per cui bisogna avere energia. Ma questo non è sempre possibile, il
+        che può diventare un problema, e in questi momenti si vorrà sicuramente rinunciare alla relazione. In una relazione di
+        questo tipo si può arrivare a un consumo eccessivo di alcol, altre droghe o al bisogno di distrarsi fortemente, ad esempio
+        con la televisione o i videogiochi.</string>
+
+
+    <string name="abstand_4">Le energie sono molto compatibili, poiché si tratta dello stesso elemento. Tuttavia, la relazione è
+        dominata dal punto di vista energetico dal vostro partner. Ciò significa che molto probabilmente nella relazione sarete
+        sempre in secondo piano e avrete sempre la sensazione di dover dimostrare il vostro valore. \n\n
+        Vantaggi : \n\n
+        Nella relazione ci si sente al sicuro e compresi. Si ha una visione simile del mondo e ci si capisce a vicenda. C\'è anche
+        interesse reciproco. Se non si tende a controllare tutto e si è disposti a dare al partner la possibilità di essere più
+        dominante, la convivenza sarà armoniosa. Questo tipo di relazione è ideale per chi non vuole fare il “capo” e per natura
+        preferisce lasciarsi guidare. Tuttavia, dipende anche dal carattere di una persona, può succedere che il vostro partner
+        non voglia essere dominante nella relazione, quindi sarete voi a prendere le decisioni e ci sarà equilibrio nella
+        relazione. \n\n
+        Svantaggi : \n\n
+        il dominio energetico può naturalmente essere abusato di tanto in tanto dal vostro partner, causando litigi. In una
+        situazione del genere vi sentireste molto feriti e serbereste rancore a lungo.</string>
+
+
+    <string name="abstand_5">Le energie non sono realmente compatibili, ci si respinge, per così dire. Non si avverte alcuna
+        vicinanza, ma piuttosto una netta distanza dal proprio partner. La relazione è più una costrizione che una convivenza.
+        Richiede molta pazienza e forza. \n\n
+        Vantaggi : \n\n
+        Se sei una persona litigiosa e cerchi sempre l\'occasione per attaccare qualcuno , allora una relazione del genere fa al
+        caso tuo. Se hai una relazione del genere e ti impegni per mantenerla, col tempo noterai che sei diventato molto più paziente
+        e calmo rispetto a prima. \n\n
+        Svantaggi : \n\n
+        Dal punto di vista energetico, una relazione di questo tipo è sempre fonte di stress. Si vede il mondo e si reagisce ad
+        esso in modo diverso. In una relazione di questo tipo, spesso non si riesce e non si vuole capire l\'altro. Bisogna accettare
+        il fatto di essere quasi sempre passivo-aggressivi, il che costa nervi ed energia.</string>
+
+
+    <string name="abstand_6">Non c\'è gerarchia nella relazione, le energie sono ugualmente forti e diverse. La relazione è
+        caratterizzata piuttosto da rispetto reciproco e interesse l\'uno per l\'altro. \n\n
+        Vantaggi : \n\n
+        Nella relazione regnano neutralità e rispetto reciproco. Una relazione di questo tipo è l\'ideale per persone indipendenti
+        e autosufficienti. Si vede il mondo da prospettive diverse, ma questo non porta a litigi, bensì è piuttosto istruttivo e
+        interessante per entrambi. \n\n
+        Svantaggi : \n\n
+        È difficile innamorarsi perdutamente in questo tipo di relazione. Le persone che amano le coccole o che desiderano coesistere
+        in modo molto intimo e stretto con il partner avranno difficoltà in una relazione di questo tipo.</string>
+
+
+    <string name="abstand_7">Le energie tendono a respingersi, non sono realmente compatibili. Non c\'è gerarchia nella relazione,
+        quindi è piuttosto altalenante. La relazione è caratterizzata più dall\'aggressività che dall\'amore. \n\n
+        Vantaggi : \n\n
+        Le persone sono diverse, alcune vogliono tranquillità e sicurezza, altre vogliono azione e adrenalina. Una relazione di
+        questo tipo è perfetta per il secondo tipo. Se non si sta sempre insieme e si trascorrono solo poche ore al giorno insieme,
+        allora può essere interessante e stimolante. La vita sessuale di queste coppie può essere molto intensa ed eccitante,
+        almeno all\'inizio. \n\n
+        Svantaggi : \n\n
+        Una relazione di questo tipo funziona solo se entrambi trascorrono relativamente poco tempo insieme, perché le energie
+        tendono a ferirsi a vicenda piuttosto che a sostenersi. Con il tempo può succedere che entrambi attribuiscano relativamente
+        poco valore l\'uno all\'altro e che a entrambi non importi più cosa pensa, fa o dice l\'altro.</string>
+
+
+    <string name="abstand_8">Domini energicamente nella relazione. La relazione è caratterizzata da sicurezza, comprensione e simpatia
+        reciproca. \n\n
+        Vantaggi : \n\n
+        Nella relazione ci si sente al sicuro e compresi. La percezione del mondo è uguale o molto simile, il che porta a poter
+        parlare di tutto e a capirsi molto bene. Se il vostro partner è d\'accordo che voi assumiate un ruolo guida e non abusate
+        del vostro dominio energetico nei suoi confronti, nella relazione possono regnare armonia e comprensione. \n\n
+        Svantaggi : \n\n
+        Se la tranquillità e la sicurezza non fanno proprio al caso vostro e abusate regolarmente del vostro dominio energetico,
+        la relazione non durerà a lungo.</string>
+
+
+    <string name="abstand_9">Le energie non sono realmente compatibili. Si tratta piuttosto di una lotta passivo-aggressiva all\'interno
+        della relazione. La tua energia è leggermente più dominante di quella del tuo partner, ma lui/lei non lo accetta e lotta contro
+        questo fatto. A lungo andare, stare insieme diventa molto faticoso e snervante. \n\n
+        Vantaggi : \n\n
+        Se ti piace esercitare la pazienza e l\'amore per il prossimo, allora una relazione del genere sarebbe perfetta per te, perché
+        avresti abbastanza situazioni in cui dovresti controllare la rabbia e l\'aggressività. La costante lotta energetica può anche
+        essere eccitante per le persone che amano litigare per alleviare la frustrazione e l\'insoddisfazione. \n\n
+        Svantaggi : \n\n
+        In una relazione del genere si cercano invano sicurezza, amore e tranquillità. I sentimenti negativi e il lato oscuro che
+        ognuno di noi ha dominano in una combinazione di energie del genere. Chi non ha voglia di questo continuo altalena di
+        sentimenti, si ritirerà dalla relazione.</string>
+
+
+    <string name="abstand_10">Le energie sono ugualmente forti e quindi non esiste una gerarchia energetica nella relazione. Nel
+        migliore dei casi, la relazione è caratterizzata da interesse reciproco e rispetto. \n\n
+        Vantaggi : \n\n
+        Questo tipo di relazione può essere molto arricchente, perché voi e il vostro partner avete prospettive diverse sul mondo,
+        il che può essere interessante. Questa combinazione è interessante soprattutto per le persone autosufficienti. Le persone
+        che vogliono assolutamente essere molto vicine e intense con il proprio partner, scopriranno che in una relazione di questo
+        tipo semplicemente non è possibile. Queste coppie sono caratterizzate da una certa distanza e rispetto. \n\n
+        Svantaggi : \n\n
+        Poiché nella relazione non esiste una gerarchia, possono verificarsi lotte di potere che possono portare a frequenti litigi.
+        Non tutti si sentono a proprio agio in relazioni di questo tipo, perché le diverse visioni delle cose possono portare a
+        litigi senza che ci si renda conto che si stanno semplicemente guardando i diversi lati di una situazione e che entrambi
+        hanno ragione a modo loro.</string>
+
+
+    <string name="abstand_11">C\'è una gerarchia nella relazione e l\'energia del vostro partner domina sulla vostra. La relazione
+        è caratterizzata nel complesso da reciproca simpatia. \n\n
+        Vantaggi : \n\n
+        Se non sei necessariamente una persona che ama avere il controllo su tutto e non vuoi assumerti responsabilità, allora una
+        relazione di questo tipo fa al caso tuo. Le energie sono affini, il che può suscitare simpatia e interesse reciproci. Si
+        vede il mondo in modo leggermente diverso, il che può rendere la relazione eccitante. \n\n
+        Svantaggi : \n\n
+        se il vostro partner sfrutta il proprio dominio energetico per opprimervi, glielo rinfaccerete a lungo e ci saranno regolarmente
+        grandi litigi. La tensione e l\'odio da parte vostra aumenteranno di volta in volta. </string>
+
+
+    <string name="toolbar_text_geburtstagseingabe">Inserisci la tua data di nascita</string>
+    <string name="toolbar_text_choose_options">Selezionare le opzioni</string>
+    <string name="subtitel_text_choose_options">Opzioni che la relazione dovrebbe avere</string>
+    <string name="options_1">Voglio essere rispettato</string>
+    <string name="options_2">Voglio rispettare il mio partner</string>
+    <string name="options_3">Desidero comprensione e sicurezza</string>
+    <string name="options_4">Ho bisogno di un partner che odio più di quanto amo</string>
+    <string name="options_5">Voglio che la relazione sia interessante</string>
+    <string name="options_6">Ho bisogno di molto spazio e distanza</string>
+    <string name="options_7">Vorrei dominare energeticamente nella relazione</string>
+    <string name="options_8">Vorrei che il mio partner fosse dominante nella relazione</string>
+    <string name="options_9">Vorrei che nessuno dominasse nella relazione</string>
+    <string name="Fische">Pesci</string>
+    <string name="Widder">Ariete</string>
+    <string name="Stier">Toro</string>
+    <string name="Zwillinge">Gemelli</string>
+    <string name="Krebs">Cancro</string>
+    <string name="Loewe">Leone</string>
+    <string name="Jungfrau">Vergine</string>
+    <string name="Waage">Bilancia</string>
+    <string name="Skorpion">Scorpione</string>
+    <string name="Schuetze">Sagittario</string>
+    <string name="Steinbock">Capricorno</string>
+    <string name="Wassermann">Acquario</string>
+    <string name="Sternzeichen_info_toolbar">Segni zodiacali</string>
+</resources>

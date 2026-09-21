@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/layout_background_color"
+    android:fitsSystemWindows="true">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/HelpBackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:clickable="true"
+        app:tint="@color/floating_button_hint_color"
+        app:backgroundTint="@color/navigationbutton_background_color"
+        app:srcCompat="@drawable/arrow_back_24px" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/toolbar_background_color"
+                android:minHeight="?attr/actionBarSize"
+                android:theme="?attr/actionBarTheme"
+                app:title="@string/Sternzeichen_info_toolbar"
+                app:titleTextColor="@color/toolbar_titel_color" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText27"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Widder"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText28"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="21.03. - 20.04."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText25"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Stier"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText26"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="21.04. - 20.05."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText23"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Zwillinge"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText24"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="21.05. - 21.06."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText21"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Krebs"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText22"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="22.06. - 22.07."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText19"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Loewe"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText20"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="23.07. - 23.08."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText17"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Jungfrau"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="24.08. - 23.09."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText15"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Waage"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText16"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="24.09. - 23.10."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Skorpion"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText6"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="24.10. - 22.11."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText7"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Schuetze"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="23.11. - 21.12."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText9"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Steinbock"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText10"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="22.12. - 20.01."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText11"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Wassermann"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText12"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="21.01. - 19.02."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextText13"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="@string/Fische"
+                            android:textColor="@color/navigationbutton_text_color" />
+
+                        <EditText
+                            android:id="@+id/editTextText14"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:ems="10"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="text"
+                            android:text="20.02. - 20.03."
+                            android:textColor="@color/text_color" />
+                    </LinearLayout>
+                </TableRow>
+            </TableLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

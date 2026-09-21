@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/BackChooseOptionsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:clickable="true"
+        app:tint="@color/floating_button_hint_color"
+        app:backgroundTint="@color/navigationbutton_background_color"
+        app:srcCompat="@drawable/arrow_back_24px" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/HomeChooseOptionsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="20dp"
+        android:clickable="true"
+        app:tint="@color/floating_button_hint_color"
+        app:backgroundTint="@color/navigationbutton_background_color"
+        app:srcCompat="?android:attr/listChoiceIndicatorSingle" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/HelpActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:clickable="true"
+        app:tint="@color/floating_button_hint_color"
+        app:backgroundTint="@color/navigationbutton_background_color"
+        app:srcCompat="@drawable/question_mark_24px__1_" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/layout_background_color">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/toolbar_background_color"
+                android:minHeight="?attr/actionBarSize"
+                android:theme="?attr/actionBarTheme"
+                app:subtitle="@string/subtitel_text_choose_options"
+                app:subtitleTextAppearance="@style/TextAppearance.AppCompat.Menu"
+                app:subtitleTextColor="@color/choosed_options_subtitle_color"
+                app:title="@string/toolbar_text_choose_options"
+                app:titleTextColor="@color/toolbar_titel_color" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <CheckBox
+                        android:id="@+id/Option1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:drawableTint="@color/check_options_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_1"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_2"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_3"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_4"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_5"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_6"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_7"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_8"
+                        android:textColor="@color/text_color" />
+
+                    <CheckBox
+                        android:id="@+id/Option9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/navigationbutton_text_color"
+                        android:fontFamily="sans-serif-light"
+                        android:text="@string/options_9"
+                        android:textColor="@color/text_color" />
+                </LinearLayout>
+
+            </TableRow>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/AusgabeTextEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginEnd="28dp"
+                android:background="@drawable/options_result_ausgabe"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:paddingStart="10dp"
+                android:paddingTop="10dp"
+                android:paddingEnd="10dp"
+                android:paddingBottom="10dp"
+                android:textAlignment="center"
+                android:textColor="@color/navigationbutton_text_color" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
